@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple_counter_app.git/static/css/main.46741350.css",
+    "main.js": "/simple_counter_app.git/static/js/main.614adf19.js",
+    "index.html": "/simple_counter_app.git/index.html",
+    "main.46741350.css.map": "/simple_counter_app.git/static/css/main.46741350.css.map",
+    "main.614adf19.js.map": "/simple_counter_app.git/static/js/main.614adf19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46741350.css",
+    "static/js/main.614adf19.js"
+  ]
+}
